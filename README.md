@@ -35,6 +35,5 @@ The 'QuestionList' component maps over the 'data' array and renders a 'Question'
 The console.log(data) statement is used for debugging purposes.
 
 ## Screenshot
-
-![Question List Component Screenshot](./Screenshot1.png)
+![Screenshot](public/Screenshot1.png).
 
