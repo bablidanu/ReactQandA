@@ -37,5 +37,4 @@ The console.log(data) statement is used for debugging purposes.
 ## Screenshot
 
 ![Question List Component Screenshot](./Screenshot1.png)
-![Question List Component Screenshot](./Screenshot2.png)
-![Question List Component Screenshot](./Screenshot3.png)
+
