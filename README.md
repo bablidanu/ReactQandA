@@ -34,7 +34,7 @@ A React component that displays a list of questions.
 The 'QuestionList' component maps over the 'data' array and renders a 'Question' component for each item.
 The console.log(data) statement is used for debugging purposes.
 
-## Screenshot
+### Screenshot
 ![Screenshot](public/Screenshot1.png).
 ![Screenshot](public/Screenshot2.png).
 ![Screenshot](public/Screenshot3.png).
